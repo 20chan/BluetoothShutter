@@ -4,4 +4,4 @@ How it works (Youtube)
 
 [![img](/imgs/preview.png)](https://youtu.be/LD_wmhUZlnc)
 
-ÀÌÁ¦ ÀÌ°Å https://github.com/phillyai/USBLock ¿¡ ºÙ¿©¾ßÁö
+ì´ì œ ì´ê±° https://github.com/phillyai/USBLock ì— ë¶™ì—¬ì•¼ì§€
