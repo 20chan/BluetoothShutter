@@ -31,6 +31,11 @@ namespace RemoteController
             this.FormClosed += (s, e) => hook.HookEnd();
         }
 
+        ~Form1()
+        {
+            hook.HookEnd();
+        }
+
         private void Rawinput_KeyPressed(object sender, RawInputEventArg e)
         {
             if (e.KeyPressEvent.Source == "Keyboard_01" && e.KeyPressEvent.VKeyName == "ENTER")
